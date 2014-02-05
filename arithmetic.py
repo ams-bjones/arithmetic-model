@@ -49,9 +49,9 @@ print(rem(c,d))
 print("Power test")
 print(power(c,d))
 print("Bidmas test")
-print(bid1(c,d))
+print(bid1(c))
 print("Bidmas test 2")
-print(bid2(c,d))
+print(bid2(c))
 
 
     
